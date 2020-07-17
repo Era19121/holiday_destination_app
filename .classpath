@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-14.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ashwani Sharma/Desktop/Era/IIIT DELHI/SEM2/DW/major project/sqljdbc_8.2/enu/mssql-jdbc-8.2.2.jre13.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ashwani Sharma/Desktop/Era/IIIT DELHI/SEM2/DW/major project/DW_endSemProj/lib/mssql-jdbc-8.2.2.jre8.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ashwani Sharma/Desktop/Era/IIIT DELHI/SEM2/DW/major project/DW_endSemProj/lib/mssql-jdbc-8.2.2.jre11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ashwani Sharma/Desktop/Era/IIIT DELHI/SEM2/DW/major project/DW_endSemProj/lib/mssql-jdbc-8.2.2.jre13.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
